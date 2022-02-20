@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and cubing (which means playing the Rubik's Cube)
 - 🌱 I’m currently learning PHP, MySQL, etc.
 - 💞️ I’m looking to collaborate on building my own website
-- 📫 My email is justinblder@outlook.com, you camn contact me!!!
+- 📫 My email is justin.1106@icloud.com, you can contact me!!!
 - 🇨🇳 Oops, I'm from China!
 
 <!---
